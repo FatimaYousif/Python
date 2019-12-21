@@ -1,0 +1,12 @@
+Function:
+Functions are used to carry out a particular task and let alone it is used with the methods without any class.  
+SYNTAX:
+	def func():
+is called in the program with the function name only.
+
+Method:
+Method are functions inside a class to show it's behavior.
+SYNTAX:
+ class methclass():
+	def __init__(self,m_name):
+		self.m_name=m_name;

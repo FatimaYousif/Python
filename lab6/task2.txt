@@ -1,0 +1,5 @@
+advantages are mentioned as:
+1) OOP gives a structured format for arranging data and methods together. 
+2) Gets us linked with real world objects.
+3) It's features help in acheiving the best. The features include: encapsulation (data privacy) , inheritance(extending of child class from base/parent class)(supports reusability of the code), abstraction(unnecessary data hiding/not implemented), polymorphism (many forms of the single object).
+4) Less procedural programming language.

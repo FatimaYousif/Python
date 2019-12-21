@@ -1,0 +1,2 @@
+
+object oriented programming language aka OOP is a paradigm of programming concerned with classes and objects. Each class further more is comprised of attributes aka "instance variables or data" and methods (to carry out any functionality).

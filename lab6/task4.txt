@@ -1,0 +1,11 @@
+Class:
+A blueprint for the object comprising of data members and methods.
+
+Object:
+ A real world entity, having attributes and behaviour as its definition. Can be said as the implementation of the class.
+
+Attribute:
+ Attribute is the class's data needed and used with its methods. Attributes are also termed as "instance variables" or "data members".
+
+Behavior: 
+Behaviour is the functionality needed to be in the Object to carry out certain tasks individually or collectively. Behaviour is also termed as "Methods" in OOP.
